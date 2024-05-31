@@ -1,4 +1,4 @@
-![imagen](https://github.com/urliambo/Chat-terra-gratis/assets/171377284/8d1a21b0-0963-4c6e-b2c3-09b3af1e3562)![imagen](https://github.com/urliambo/Chat-terra-gratis/assets/171377284/8d1a21b0-0963-4c6e-b2c3-09b3af1e3562)# Chat-terra-gratis
+
 Chat Terra Gratis era una de las características distintivas del servicio de chat en línea ofrecido por Terra Networks. Desde su lanzamiento en 1999, Terra permitía a los usuarios acceder a salas de chat y conversar de forma gratuita. Esto fue especialmente atractivo en una época en la que muchas formas de comunicación en línea requerían suscripciones o pagos por el acceso.
 
 La gratuidad del servicio de chat Terra ayudó a fomentar su popularidad y atraer a una amplia base de usuarios, desde adolescentes hasta adultos, que buscaban un espacio para socializar, debatir sobre diversos temas o simplemente pasar el tiempo. Los usuarios podían acceder a una variedad de salas de chat temáticas, desde deportes y entretenimiento hasta política y tecnología, y participar en conversaciones en tiempo real con personas de todo el mundo de habla hispana.
